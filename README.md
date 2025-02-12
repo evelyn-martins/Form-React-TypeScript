@@ -27,7 +27,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 Clone o repositório e instale as dependências:
 
 ```
-git clone https://github.com/seu-usuario/formulario-react-typescript.git
+git clone https://github.com/evelyn-martins/Form-React-TypeScript.git
 cd Form-React-TypeScript
 npm install
 ```
