@@ -38,12 +38,7 @@ Siga os passos abaixo para adicionar o Tailwind ao seu projeto:
 
 Instalar o Tailwind CSS:
 ```
-npm install tailwindcss @tailwindcss/cli
-```
-
-Compilar o Tailwind CSS:
-```
-npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch
+npm install tailwindcss @tailwindcss/vite
 ```
 
 ## ☕ Usando Formulário com React e TypeScript
